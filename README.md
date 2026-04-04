@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushhop" alt="aayushhop" /></a> </p>
 
-- 🔭 I’m currently working on **making an online movie ticket booking app**
+- 🔭 I’m currently working on **my problem solving abilities**
 
 - 👯 I’m looking to collaborate on **design and maintain web apps**
 
